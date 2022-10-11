@@ -1,0 +1,12 @@
+.week-component {
+  height: 100%;
+
+  &__section {
+    height: 100%;
+
+    &__iframe {
+      height: 100%;
+      width: 100%;
+    }
+  }
+}
